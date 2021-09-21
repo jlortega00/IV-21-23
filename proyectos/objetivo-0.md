@@ -47,7 +47,7 @@ línea con tus iniciales.
 | https://github.com/Pablont98/IV/pull/2 | 0.0.1 | ✓ |
 | https://github.com/Slowmybrosh/PracticaIV/pull/1 | 0.0.1 |✓ |
 | <!-- Enlace de O V S --> | | |
-| <!-- Enlace de O R J L --> | | |
+| https://github.com/jlortega00/IV/pull/1 | 0.0.1 | |
 | https://github.com/Xileon310/IV-Project/pull/1 | | ✓ |
 | <!-- Enlace de Parka015 --> | | |
 | <!-- Enlace de S R E --> | | |
